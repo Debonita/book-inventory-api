@@ -16,3 +16,4 @@ class Book:
             "price":self.price,
             "available":self.available
         }
+    
