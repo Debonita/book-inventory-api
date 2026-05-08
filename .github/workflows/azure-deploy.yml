@@ -10,7 +10,7 @@ on:
   workflow_dispatch:
 
 env:
-  AZURE_WEBAPP_NAME: book-inventory-api-debonita
+  AZURE_WEBAPP_NAME: book-inventory-api-Debonita
   PYTHON_VERSION: '3.11'
 
 jobs:
