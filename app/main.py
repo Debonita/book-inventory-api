@@ -13,7 +13,7 @@ app.include_router(books.router)
 @app.get("/", tags=["root"])
 def read_root():
     return{
-         "message": "Book Inventory API is running",
+        "message": "Welcome to Book Inventory API v2.0 - CI/CD is Working! 🚀",
         "docs": "/docs",
         "redoc": "/redoc"
     }
